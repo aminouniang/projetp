@@ -25,10 +25,10 @@
 
 @font-face {
     font-family: 'Sensation';
-    src: url('../fonts/Sensation.ttf') format('truetype');
+    src: url('../fonts/Sensation.otf') format('truetype');
 }
 
-header span.name-styling {
+header span {
     font-size: 38px;
     font-family: 'Sensation', sans-serif;
 }
